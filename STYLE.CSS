@@ -1,0 +1,47 @@
+.kkkkkk{background-color: #000000;color: rgb(251, 255, 0);display:flex; justify-content: space-around;}
+.llllll{width: 12%;}
+.Luiz{width: 30%;}
+.aaaaaaaa{display: flex;}
+.Nelly{width: 30%;}
+.article-image {text-align: center;}
+.Thor{width: 30%;}
+.Rafael{width: 30%;}
+.color{background-color: #FFEFD5;}
+.pedestre{text-align: center;}
+.f1{font-size: 0%;}
+.myButton {
+	box-shadow: 3px 4px 0px 0px #c6c91c;
+	background:linear-gradient(to bottom, #a6a62d 5%, #dbdb15 100%);
+	background-color:#a6a62d;
+	border-radius:18px;
+	border:1px solid #bac227;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Courier New;
+	font-size:17px;
+	font-weight:bold;
+	font-style:italic;
+	padding:7px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #adb81a;}
+.myButton:hover {background:linear-gradient(to bottom, #dbdb15 5%, #a6a62d 100%);background-color:#dbdb15;}
+.myButton:active {position:relative;top:1px; }
+.myButton2 {
+	box-shadow: 3px 4px 0px 0px #c6c91c;
+	background:linear-gradient(to bottom, #a6a62d 5%, #dbdb15 100%);
+	background-color:#a6a62d;
+	border-radius:18px;
+	border:1px solid #bac227;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Courier New;
+	font-size:17px;
+	font-weight:bold;
+	font-style:italic;
+	padding:7px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #adb81a;}
+.myButton2:hover {background:linear-gradient(to bottom, #dbdb15 5%, #a6a62d 100%);background-color:#dbdb15;}
+.myButton2:active {position:relative;top:1px;}
